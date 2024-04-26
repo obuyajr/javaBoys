@@ -6,4 +6,7 @@
     </style>
 
     <style name="Theme.MDC" parent="Base.Theme.MDC" />
+
+
+
 </resources>
